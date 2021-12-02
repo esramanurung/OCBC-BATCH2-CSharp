@@ -1,0 +1,16 @@
+I:\Program Internship OCBC\Sesi05\Program4\obj\Debug\net5.0\Program4.csproj.AssemblyReference.cache
+I:\Program Internship OCBC\Sesi05\Program4\obj\Debug\net5.0\Program4.GeneratedMSBuildEditorConfig.editorconfig
+I:\Program Internship OCBC\Sesi05\Program4\obj\Debug\net5.0\Program4.AssemblyInfoInputs.cache
+I:\Program Internship OCBC\Sesi05\Program4\obj\Debug\net5.0\Program4.AssemblyInfo.cs
+I:\Program Internship OCBC\Sesi05\Program4\obj\Debug\net5.0\Program4.csproj.CoreCompileInputs.cache
+I:\Program Internship OCBC\Sesi05\Program4\bin\Debug\net5.0\Program4.exe
+I:\Program Internship OCBC\Sesi05\Program4\bin\Debug\net5.0\Program4.deps.json
+I:\Program Internship OCBC\Sesi05\Program4\bin\Debug\net5.0\Program4.runtimeconfig.json
+I:\Program Internship OCBC\Sesi05\Program4\bin\Debug\net5.0\Program4.runtimeconfig.dev.json
+I:\Program Internship OCBC\Sesi05\Program4\bin\Debug\net5.0\Program4.dll
+I:\Program Internship OCBC\Sesi05\Program4\bin\Debug\net5.0\ref\Program4.dll
+I:\Program Internship OCBC\Sesi05\Program4\bin\Debug\net5.0\Program4.pdb
+I:\Program Internship OCBC\Sesi05\Program4\obj\Debug\net5.0\Program4.dll
+I:\Program Internship OCBC\Sesi05\Program4\obj\Debug\net5.0\ref\Program4.dll
+I:\Program Internship OCBC\Sesi05\Program4\obj\Debug\net5.0\Program4.pdb
+I:\Program Internship OCBC\Sesi05\Program4\obj\Debug\net5.0\Program4.genruntimeconfig.cache

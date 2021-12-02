@@ -1,0 +1,9 @@
+dotnet ef migrations add "Initial Migrations"
+
+dotnet ef database update
+
+Kode peserta: FSDO002ONL016
+Nama peserta: Esra Delima Manurung
+GitHub link  : https://github.com/esramanurung/OCBC-BATCH2-CSharp/tree/main/Sesi09/Kantor_WebApi2
+Keterangan   : Sudah selesai untuk sesi 9 (kurang tugas)
+issue        : Belum Paham Membuat CRUD

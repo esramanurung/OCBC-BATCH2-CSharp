@@ -1,0 +1,18 @@
+Payment Api Web Service menggunakan JWT Authentication:
+
+1. Terlebih dahulu menggunakan register untuk akun user yang baru supaya dapat login dan mendapatkan token.
+  - register :https://final-project-payment.herokuapp.com/api/AuthManagement/Register
+  - login    :https://final-project-payment.herokuapp.com/api/AuthManagement/Login
+
+2. Setelah Login dapatkan token lalu simpan kedalam Authorization untuk mengakses data 
+   URL :https://final-project-payment.herokuapp.com/api/AuthManagement/RefreshToken
+
+3. Apabila Token expired maka lakukan refreshtoken untuk mendapat token terbaru.
+   URL :https://final-project-payment.herokuapp.com/api/AuthManagement/RefreshToken
+
+
+
+
+Link Heroku : https://dashboard.heroku.com/apps/final-project-payment/deploy/github
+
+Link Github : https://github.com/esramanurung/Final_Project_1

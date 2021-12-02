@@ -1,0 +1,114 @@
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\FormLogin1.exe.config
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\FormLogin1.exe
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\FormLogin1.pdb
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\obj\Debug\FormLogin1.csproj.AssemblyReference.cache
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\obj\Debug\FormLogin1.FormLogin.resources
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\obj\Debug\FormLogin1.Properties.Resources.resources
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\obj\Debug\FormLogin1.csproj.GenerateResource.cache
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\obj\Debug\FormLogin1.csproj.CoreCompileInputs.cache
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\obj\Debug\FormLogin1.exe
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\obj\Debug\FormLogin1.pdb
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\obj\Debug\FormLogin1.FormRegister.resources
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\BouncyCastle.Crypto.dll
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\Google.Protobuf.dll
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\K4os.Compression.LZ4.dll
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\K4os.Hash.xxHash.dll
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\MySql.Data.dll
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\Renci.SshNet.Async.dll
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\Renci.SshNet.dll
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\System.Buffers.dll
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\System.Memory.dll
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\System.Numerics.Vectors.dll
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\Ubiety.Dns.Core.dll
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\ZstdNet.dll
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\Google.Protobuf.pdb
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\Google.Protobuf.xml
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\K4os.Compression.LZ4.xml
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\K4os.Hash.xxHash.xml
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\MySql.Data.xml
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\Renci.SshNet.xml
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\Renci.SshNet.Async.xml
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\System.Buffers.xml
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\System.Memory.xml
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\System.Numerics.Vectors.xml
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+I:\Program Internship OCBC\Sesi07\FormLogin1\FormLogin1\obj\Debug\FormLogin1.csproj.CopyComplete
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\obj\Debug\FormLogin1.csproj.AssemblyReference.cache
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\obj\Debug\FormLogin1.FormLogin.resources
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\obj\Debug\FormLogin1.FormRegister.resources
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\obj\Debug\FormLogin1.Properties.Resources.resources
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\obj\Debug\FormLogin1.csproj.GenerateResource.cache
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\obj\Debug\FormLogin1.csproj.CoreCompileInputs.cache
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\obj\Debug\FormLogin1.exe
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\obj\Debug\FormLogin1.pdb
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\FormLogin1.exe.config
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\FormLogin1.exe
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\FormLogin1.pdb
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\Google.Protobuf.dll
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\MySql.Data.dll
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\Renci.SshNet.Async.dll
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\Renci.SshNet.dll
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\System.Buffers.dll
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\System.Memory.dll
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\ZstdNet.dll
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\Google.Protobuf.pdb
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\Google.Protobuf.xml
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\MySql.Data.xml
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\Renci.SshNet.xml
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\Renci.SshNet.Async.xml
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\System.Buffers.xml
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\System.Memory.xml
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ofari\Downloads\FormLogin1\FormLogin1\FormLogin1\obj\Debug\FormLogin1.csproj.CopyComplete
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\FormLogin1.exe.config
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\FormLogin1.exe
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\FormLogin1.pdb
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\BouncyCastle.Crypto.dll
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\Google.Protobuf.dll
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\K4os.Compression.LZ4.dll
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\K4os.Hash.xxHash.dll
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\MySql.Data.dll
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\Renci.SshNet.Async.dll
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\Renci.SshNet.dll
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\System.Buffers.dll
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\System.Memory.dll
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\System.Numerics.Vectors.dll
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\Ubiety.Dns.Core.dll
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\ZstdNet.dll
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\Google.Protobuf.pdb
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\Google.Protobuf.xml
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\K4os.Compression.LZ4.xml
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\K4os.Hash.xxHash.xml
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\MySql.Data.xml
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\Renci.SshNet.xml
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\Renci.SshNet.Async.xml
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\System.Buffers.xml
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\System.Memory.xml
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\System.Numerics.Vectors.xml
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\obj\Debug\FormLogin1.csproj.AssemblyReference.cache
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\obj\Debug\FormLogin1.FormLogin.resources
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\obj\Debug\FormLogin1.FormRegister.resources
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\obj\Debug\FormLogin1.Properties.Resources.resources
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\obj\Debug\FormLogin1.csproj.GenerateResource.cache
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\obj\Debug\FormLogin1.csproj.CoreCompileInputs.cache
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\obj\Debug\FormLogin1.csproj.CopyComplete
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\obj\Debug\FormLogin1.exe
+I:\Program Internship OCBC\Login1\FormLogin1\FormLogin1\obj\Debug\FormLogin1.pdb

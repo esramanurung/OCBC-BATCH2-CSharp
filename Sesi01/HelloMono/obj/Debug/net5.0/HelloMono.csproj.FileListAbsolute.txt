@@ -1,0 +1,16 @@
+I:\Program Internship OCBC\Sesi01\HelloMono\bin\Debug\net5.0\HelloMono.exe
+I:\Program Internship OCBC\Sesi01\HelloMono\bin\Debug\net5.0\HelloMono.deps.json
+I:\Program Internship OCBC\Sesi01\HelloMono\bin\Debug\net5.0\HelloMono.runtimeconfig.json
+I:\Program Internship OCBC\Sesi01\HelloMono\bin\Debug\net5.0\HelloMono.runtimeconfig.dev.json
+I:\Program Internship OCBC\Sesi01\HelloMono\bin\Debug\net5.0\HelloMono.dll
+I:\Program Internship OCBC\Sesi01\HelloMono\bin\Debug\net5.0\ref\HelloMono.dll
+I:\Program Internship OCBC\Sesi01\HelloMono\bin\Debug\net5.0\HelloMono.pdb
+I:\Program Internship OCBC\Sesi01\HelloMono\obj\Debug\net5.0\HelloMono.csproj.AssemblyReference.cache
+I:\Program Internship OCBC\Sesi01\HelloMono\obj\Debug\net5.0\HelloMono.GeneratedMSBuildEditorConfig.editorconfig
+I:\Program Internship OCBC\Sesi01\HelloMono\obj\Debug\net5.0\HelloMono.AssemblyInfoInputs.cache
+I:\Program Internship OCBC\Sesi01\HelloMono\obj\Debug\net5.0\HelloMono.AssemblyInfo.cs
+I:\Program Internship OCBC\Sesi01\HelloMono\obj\Debug\net5.0\HelloMono.csproj.CoreCompileInputs.cache
+I:\Program Internship OCBC\Sesi01\HelloMono\obj\Debug\net5.0\HelloMono.dll
+I:\Program Internship OCBC\Sesi01\HelloMono\obj\Debug\net5.0\ref\HelloMono.dll
+I:\Program Internship OCBC\Sesi01\HelloMono\obj\Debug\net5.0\HelloMono.pdb
+I:\Program Internship OCBC\Sesi01\HelloMono\obj\Debug\net5.0\HelloMono.genruntimeconfig.cache
